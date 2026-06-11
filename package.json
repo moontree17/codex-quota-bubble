@@ -1,6 +1,6 @@
 {
   "name": "codex-quota-bubble",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Minimal Codex quota bubble for Windows.",
   "main": "src/main/main.js",
   "private": true,
